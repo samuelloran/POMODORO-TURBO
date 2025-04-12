@@ -1,0 +1,32 @@
+📦 ATUALIZAÇÕES REALIZADAS NO PROJETO POMODORO:
+
+1. 🎨 Interface melhorada:
+   - Emojis no título
+   - Modo escuro com botão alternador
+   - Barra de progresso visual sincronizada ao tempo restante
+
+2. 🔁 Ciclo automático:
+   - Troca automática entre foco e pausa após o término do cronômetro
+
+3. 💾 Salvamento de dados (localStorage):
+   - Ciclos de foco e turbo persistem após fechar o navegador
+
+4. 📊 Gráfico de produtividade:
+   - Exibe ciclos concluídos de foco e turbo com Chart.js
+   - Atualização automática a cada ciclo
+
+5. 🧽 Botão “Zerar Estatísticas”:
+   - Limpa gráfico e dados de ciclos e tempo
+
+6. ⏳ Tempo total focado:
+   - Exibição formatada em horas e minutos
+   - Salvo e restaurado automaticamente
+
+7. 📤 Exportação CSV:
+   - Gera e baixa arquivo CSV com resumo de produtividade
+
+8. 📱 PWA (Progressive Web App):
+   - App instalável no celular ou desktop
+   - Arquivos manifest.json e service-worker.js incluídos
+
+🔚 Todas essas melhorias foram integradas em um único script JavaScript (app.js).
